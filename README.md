@@ -1,6 +1,6 @@
 # Gsl_ekp_bypassPlugin
-如果工具帮到了你，顺手点个 ⭐ 就是对项目最大的支持，感谢各位师傅！ 
-bypass 哥斯拉原生执行命令被拦截的情况  
+如果工具帮到了你，顺手点个 ⭐ 就是对项目最大的支持，感谢各位师傅！   
+bypass 哥斯拉原生执行命令被拦截的情况    
 因改了内置dll需要配合ekp客户端使用 https://github.com/ekkoo-z/Z-Godzilla_ekp
 ### 场景：
 <img width="1371" height="555" alt="image" src="https://github.com/user-attachments/assets/c1de1075-386c-4850-9f10-d440ff8ede0f" />  
