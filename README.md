@@ -6,7 +6,7 @@ bypass 哥斯拉原生执行命令被拦截的情况
 <img width="1240" height="787" alt="image" src="https://github.com/user-attachments/assets/2769480e-a3ec-47b1-8f3f-035aa08d1477" />  
 
  ### 使用方法： 
-1.正常加载插件  
-2.执行命令  
+1.将插件 jar 加载到 Godzilla_ekp
+2.所有命令通过插件窗口执行，避免触发 w3wp.exe 监控。
 <img width="1227" height="859" alt="image" src="https://github.com/user-attachments/assets/bea45423-06e6-40f7-ac75-a55cf5407aee" />
 <img width="3379" height="1359" alt="image" src="https://github.com/user-attachments/assets/20dface2-0ca8-4e51-ac47-6c2fd8efe297" />
